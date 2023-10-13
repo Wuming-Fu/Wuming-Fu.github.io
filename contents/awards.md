@@ -3,12 +3,8 @@
   
 
 
-- First-prize Academic Scholarship, 2023.
+- Shanghai Library Open Data Contest: Algorithm Design Winner, 2022.
 
-- Freshman Academic Scholarship, 2022.
+- Huawei Cup: Company Choice Prize, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- LanQiao Programming Challenge: National Second Prize(Python), Beijing District Second Prize(C++), 2022.
