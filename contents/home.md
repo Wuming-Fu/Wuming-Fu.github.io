@@ -11,5 +11,7 @@ alanfu[at]stu.pku.edu.cn
 
 2017.08 - 2020.06, Outstanding Graduate, Shanghai High School.
 
+2013.08 - 2017.06, Founder of Student Robotics Club, Shanghai HuaYu Private Middle School.
+
 #### Research Intersts
 Machine Learning, Artificial Intelligence, Human-Computer Interaction and Decision making.
