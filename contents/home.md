@@ -1,7 +1,11 @@
-I am a senior undergraduate student at the School of EECS, Peking University. Before becoming an undergraduate student of Peking University , I received my high school education in Shanghai High School, Shanghai, China. During summer holiday I worked as a quant researcher intern for X-square, a leading professional asset management and investment decision-making service provider in China, co-advised by Dr. Kun Gao and Dr. Xingwei Wu. During my period of internship, I was focusing on applying machine learning algorithms and big data integration techniques to data management and feature engineering to produce data products aimed at boosting the power of algorithm-driven asset management and decision making for our clients. As a result, I successfully provided a whole package of professional algorithm products containing meticulously-engineered features for our clients. Also, during my internship at China Merchants Bank, I planned, organized, and directed specific data analysis projects and research projects on algorithmic decision-making, under the supervision of Qian Su.
+I am a senior undergraduate student at the School of EECS, Peking University. Before becoming an undergraduate student of Peking University , I received my high school education in Shanghai High School, Shanghai, China. 
 
+My research is primarily concerned with applying deep learning to study semantic scene understanding, which is one of the key building blocks of autonomous robots working in dynamic, real-world environments. Semantic scene understanding refers to the ability of a computer system or a neural network model to analyze and interpret visual information in a scene at a semantic level. This involves comprehending the meaning and relationships of different objects, entities, and their interactions within an image or a video.
 
-My research is primarily concerned with applying machine learning to study decision-making process in order to better determine the human behavior in various financial situations. My research focuses on the creation of quantitative models that characterize and forecast human behavioral traits, including strategies. These models have broad applicability in enhancing management practices across various domains, such as marketing.
+I am particularly interested in LiDAR-only semantic segmentation using data captured from rotating 3D LiDARs such as the commonly used Velodyne scanners. The goal is to accurately perform semantic segmentation of LiDAR-only point clouds on the homebrew PKU-POSS dataset. Currently I am only concerned with segmentation using only LiDAR data. However, it would be interesting to think about how can rgb data help with this task.
+
+I work under the supervision of Peking University Professor Huijing Zhao. The lab's name is PKU-POSS. 
+lab's webpage: http://www.poss.pku.edu.cn
 
 #### Email
 alanfu[at]stu.pku.edu.cn
@@ -14,4 +18,7 @@ alanfu[at]stu.pku.edu.cn
 2013.08 - 2017.06, Founder of Student Robotics Club, Shanghai HuaYu Private Middle School.
 
 #### Research Intersts
-Machine Learning, Artificial Intelligence, Human-Computer Interaction and Decision making.
+Machine Learning, Autonomous Robot, Scene Understanding, Semantic Segmentation
+
+#### Github
+https://github.com/Wuming-Fu/rangenet-POSS
