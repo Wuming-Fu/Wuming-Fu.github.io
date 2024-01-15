@@ -5,7 +5,8 @@ My research is primarily concerned with applying deep learning to study semantic
 I am particularly interested in LiDAR-only semantic segmentation using data captured from rotating 3D LiDARs such as the commonly used Velodyne scanners. The goal is to accurately perform semantic segmentation of LiDAR-only point clouds on the homebrew PKU-POSS dataset. Currently I am only concerned with segmentation using only LiDAR data. However, it would be interesting to think about how can rgb data help with this task.
 
 I work under the supervision of Peking University Professor Huijing Zhao. The lab's name is PKU-POSS. 
-lab's webpage: http://www.poss.pku.edu.cn
+
+Lab's webpage: http://www.poss.pku.edu.cn
 
 #### Email
 alanfu[at]stu.pku.edu.cn
