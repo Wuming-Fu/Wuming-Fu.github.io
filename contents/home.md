@@ -9,7 +9,7 @@ I work under the supervision of Peking University Professor Huijing Zhao. The la
 Lab's webpage: http://www.poss.pku.edu.cn
 
 #### Email
-alanfu[at]stu.pku.edu.cn
+fwm17653@126.com
 
 #### Education
 2020.08 - present, Information Technology and Computer Science, School of Electronic Engineering and Computer Science, Peking University.
