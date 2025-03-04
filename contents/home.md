@@ -11,7 +11,7 @@ Lab's webpage: http://www.poss.pku.edu.cn
 2025.2.26 Currently I am working on certain semiconductor equipment.
 
 #### Email
-fwm17653@126.com
+fuwuming2@outlook.com
 
 #### Wechat ID
 fwm17653
