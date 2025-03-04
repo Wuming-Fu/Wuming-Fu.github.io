@@ -13,6 +13,9 @@ Lab's webpage: http://www.poss.pku.edu.cn
 #### Email
 fwm17653@126.com
 
+#### Wechat ID
+fwm17653
+
 #### Education
 2020.08 - present, Information Technology and Computer Science, School of Electronic Engineering and Computer Science, Peking University.
 
