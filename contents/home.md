@@ -13,9 +13,6 @@ Lab's webpage: http://www.poss.pku.edu.cn
 #### Email
 fuwuming2@outlook.com
 
-#### Wechat ID
-fwm17653
-
 #### Education
 2020.08 - present, Information Technology and Computer Science, School of Electronic Engineering and Computer Science, Peking University.
 
