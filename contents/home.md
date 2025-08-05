@@ -8,7 +8,7 @@ I work under the supervision of Peking University Professor Huijing Zhao. The la
 
 Lab's webpage: http://www.poss.pku.edu.cn
 
-2025.2.26 Currently I am working on large semiconductor equipment in China's largest tech company.
+2025.2.26 Currently I am working on large semiconductor equipment in China's largest tech company in Shanghai.
 
 2025.5    I have also begun working on a new robot project.
 
