@@ -27,5 +27,8 @@ fuwuming2@outlook.com
 #### Research Intersts
 Machine Learning, Autonomous Robot, Scene Understanding, Semantic Segmentation
 
+#### Internship
+In 2022 I interned shortly at X-square Investment and learnt about building models with linear algebra and stochastic process.
+
 #### Github
 https://github.com/Wuming-Fu/rangenet-POSS
