@@ -39,3 +39,6 @@ https://github.com/Wuming-Fu/rangenet-POSS
 Here are some blogs I wrote during collegiate days.
 
 [blogs](https://blog.csdn.net/StickyFingersPC?spm=1010.2135.3001.10640)
+
+wechat: contact me if you want to 交个朋友
+freeyourhands2
