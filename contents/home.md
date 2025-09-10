@@ -14,7 +14,7 @@ Lab's webpage: http://www.poss.pku.edu.cn
 
 2025.5    I have also begun working on a new robot project.
 
-LinkedIn: https://www.linkedin.com/in/无名-富-12112b295/
+LinkedIn: https://www.linkedin.com/in/alan-fu-12112b295
 
 #### Email
 fuwuming2@outlook.com
